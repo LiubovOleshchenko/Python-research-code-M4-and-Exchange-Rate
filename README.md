@@ -1,4 +1,4 @@
-Python Research Code - computational experiments with Dataset D1 — M4 Quarterly Finance (https://github.com/Mcompetitions/M4-methods) and Dataset D2 — Exchange-Rate (https://github.com/laiguokun/multivariate-time-series-data)
+Python Research Code - computational experiments with Dataset D1 — M4 Quarterly Finance and Dataset D2 — Exchange-Rate 
 
 Overview
 
