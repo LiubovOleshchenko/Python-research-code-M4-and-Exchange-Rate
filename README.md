@@ -1,4 +1,4 @@
-Python Research Code - computational experiments with Dataset D1 — M4 Quarterly Finance and Dataset D2 — Exchange-Rate 
+Python - computational experiments with Dataset D1 — M4 Quarterly Finance and Dataset D2 — Exchange-Rate 
 
 Overview
 
